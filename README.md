@@ -27,9 +27,5 @@ OR
 4.Find Netlify link: https://marvelous-torrone-9bbbc5.netlify.app/index.html
 
 Contributors/Team members:
-1.Pawan Kumar
-2.Shubham Barore
-3.Rohit Dhatrak
-4.Sudarshan Shinde
-5.Amit Ghosh
-6.Shreeprada Bhat
+1.Ankit Asalkar
+2.Sonali Gole
